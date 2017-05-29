@@ -1,0 +1,16 @@
+The Clyde Guide - simple site structure
+
+    > Home - welcome, how it works, maybe newest entries or random picture or ..
+    
+    > View entries - list or map of entries
+        - See details of one entry and review entries
+
+    > Register as a user
+	
+    > Login
+        - See and change own profile settings
+
+
+optional:
+    > Admin view (to accept registration requests. Shall we do that? Maybe if we have enough time^^)
+
